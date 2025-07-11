@@ -37,5 +37,5 @@ Keduanya merupakan struktur data linier dan fleksibel dalam ukuran, artinya tida
 ---
 
 📝 **Ringkasan tulisan tangan** tersedia di file `summary.jpg`.  
-💻 **Implementasi Python** dapat dilihat di file `stack_queue.py`.
+💻 **Implementasi Python** dapat dilihat di file `code.py`.
 
