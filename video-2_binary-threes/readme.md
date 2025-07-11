@@ -33,4 +33,4 @@ Fungsi `print_tree(traversal_type)` memanggil traversal yang diinginkan dan meng
 ---
 
 📄 **Ringkasan tulisan tangan** tersedia di file `summary.jpg`  
-💻 **Kode Python** dapat dilihat di `binary_tree.py`
+💻 **Kode Python** dapat dilihat di `code.py`
