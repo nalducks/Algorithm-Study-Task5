@@ -1,19 +1,16 @@
-# Algorithm Video Implementation - Data Structure Study
+# 🧠 Tugas Struktur Data – Implementasi dari Video YouTube
 
-Repositori ini merupakan tugas kuliah yang berisi:
+## 📌 Deskripsi Tugas
 
-- Ringkasan dari 2 video YouTube tentang algoritma/struktur data
-- Implementasi kode Python dari masing-masing video
-- Setiap folder mewakili satu video dan implementasinya
+Tugas ini bertujuan untuk memperkuat pemahaman mahasiswa mengenai struktur data dasar seperti **Stack, Queue, dan Binary Tree** melalui media pembelajaran visual (YouTube) dan implementasi praktis menggunakan bahasa pemrograman **Python**.
 
-## 📌 Video Pilihan
+---
 
-1. **Linked List** - [Nama Video & Link YouTube]
-2. **Queue** - [Nama Video & Link YouTube]
+## 🧾 Langkah-Langkah Sesuai Instruksi
 
-## 💻 Bahasa Pemrograman
-Semua implementasi menggunakan **Python 3**.
+1. ✅ **Mencari dan menonton 2 video YouTube** bertopik struktur data (durasi maksimal 15–20 menit).
+2. 📝 **Menulis ringkasan dengan tulisan tangan** di kertas folio sebanyak 200–300 kata mengenai konsep yang dijelaskan.
+3. 🐍 **Mengimplementasikan kode dalam Python** berdasarkan penjelasan di video.
+4. ☁️ **Mengunggah hasil implementasi ke GitHub** masing-masing mahasiswa.
 
-## 📝 Catatan
-- Ringkasan konsep ditulis tangan pada kertas folio dan diunggah sebagai gambar (`summary.jpg`)
-- Kode hasil implementasi ditulis ulang dari video dan dijelaskan di masing-masing folder.
+---
